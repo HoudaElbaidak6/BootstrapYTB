@@ -1,12 +1,12 @@
-/* 
+
 body::before{
     display: block;
     content: "";
     height: 60px;
 
-    I don't really understand it or maybe I do 
-    okay so he put the body on display block so he can manipulate the height and give a little space btw the girl's head and the nav , I'm not sure tho 
-}   */
+    /* I don't really understand it or maybe I do 
+    okay so he put the body on display block so he can manipulate the height and give a little space btw the girl's head and the nav , I'm not sure tho  */
+}   
 
 @media (min-width:750px){
    .cutebtn{
